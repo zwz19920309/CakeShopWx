@@ -1,0 +1,10 @@
+
+  <view class="info">
+    <view class="info_block">
+       <image class="qrcode" src="{{avatarUrl}}" data-src="{{avatarUrl}}" bindtap="previewImage"/>
+       <view style="padding: 10px 0;">
+        <text>扫一扫加店主微信，可享受9.0折优惠噢</text>  
+      </view>
+    </view>
+ 
+  </view>
